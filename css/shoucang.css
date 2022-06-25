@@ -1,0 +1,18 @@
+#main img {
+    display: inline-block;
+    width: 420px;
+    height: 260px;
+    vertical-align: middle;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+#banner img{
+    width: 1000px;
+    height: 416.67px;
+}
